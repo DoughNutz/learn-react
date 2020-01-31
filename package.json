@@ -16,6 +16,14 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoughNutz/learn-mssql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DoughNutz/learn-mssql/issues"
+  },
+  "homepage": "https://github.com/DoughNutz/learn-mssql#readme",
   "eslintConfig": {
     "extends": "react-app"
   },
